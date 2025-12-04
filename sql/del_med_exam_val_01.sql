@@ -1,0 +1,2 @@
+DELETE
+FROM med_exam_val
