@@ -23,11 +23,13 @@
 ![image](https://github.com/dntco43u/med_exam/blob/main/pgsql/erd/med_exam.webp?raw=true)
 
 ## 구현
-- [데모 페이지](https://gr.gvp6nx1a.duckdns.org/d/fdyt7rjk3owzkd/med-exam?orgId=1)[^1]
+- [데모 페이지 1](https://gr.gvp6nx1a.duckdns.org/d/fdyt7rjk3owzkd/med-exam?orgId=1)[^1]
+- [데모 페이지 2](https://agknwpt3.grafana.net/d/fdyt7rjk3owzkd/med-exam?orgId=1&from=2024-07-23T15:00:00.000Z&to=2024-09-09T14:59:59.000Z&timezone=Asia%2FSeoul&var-usr_id=9VFsW2u8mIqFXMlG7f6irg%3D%3D&var-exam_type_cd=002&var-exam_id=RT51KR-PK01&var-rslt_ymd=$__all&var-exam_a_gb_cd=$__all&var-grdng_cd=$__all&var-exam_b_gb_cd=$__all&var-ai_model=$__all)[^2]
 
 ![image](https://github.com/dntco43u/med_exam/blob/main/img/demo_page1.webp?raw=true)
 ![image](https://github.com/dntco43u/med_exam/blob/main/img/demo_page2.webp?raw=true)
 ![image](https://github.com/dntco43u/med_exam/blob/main/img/demo_page3.webp?raw=true)
 ![image](https://github.com/dntco43u/med_exam/blob/main/img/demo_page4.webp?raw=true)
 
-[^1]: [데모 페이지 상태 확인](https://up.gvp6nx1a.duckdns.org/status/grafana) (무료 dns라 불안정함. 여러 차례 시도해야할 수 있음)
+[^1]: grafana 계정 불필요. 무료 dns라 불안정함. 여러 차례 시도해야할 수 있음. ([데모 페이지 상태 확인](https://up.gvp6nx1a.duckdns.org/status/grafana))
+[^2]: grafana 계정 필요.

@@ -46,7 +46,7 @@
       "datasource": {
         "default": true,
         "type": "grafana-postgresql-datasource",
-        "uid": "adpg3priy4oowc"
+        "uid": "cf65lbpm63668f"
       },
       "fieldConfig": {
         "defaults": {
@@ -97,7 +97,7 @@
         {
           "datasource": {
             "type": "grafana-postgresql-datasource",
-            "uid": "adpg3priy4oowc"
+            "uid": "cf65lbpm63668f"
           },
           "editorMode": "code",
           "format": "table",
@@ -130,7 +130,7 @@
       "datasource": {
         "default": true,
         "type": "grafana-postgresql-datasource",
-        "uid": "adpg3priy4oowc"
+        "uid": "cf65lbpm63668f"
       },
       "fieldConfig": {
         "defaults": {
@@ -181,7 +181,7 @@
         {
           "datasource": {
             "type": "grafana-postgresql-datasource",
-            "uid": "adpg3priy4oowc"
+            "uid": "cf65lbpm63668f"
           },
           "editorMode": "code",
           "format": "table",
@@ -214,7 +214,7 @@
       "datasource": {
         "default": true,
         "type": "grafana-postgresql-datasource",
-        "uid": "adpg3priy4oowc"
+        "uid": "cf65lbpm63668f"
       },
       "fieldConfig": {
         "defaults": {
@@ -269,7 +269,7 @@
         {
           "datasource": {
             "type": "grafana-postgresql-datasource",
-            "uid": "adpg3priy4oowc"
+            "uid": "cf65lbpm63668f"
           },
           "editorMode": "code",
           "format": "table",
@@ -302,7 +302,7 @@
       "datasource": {
         "default": true,
         "type": "grafana-postgresql-datasource",
-        "uid": "adpg3priy4oowc"
+        "uid": "cf65lbpm63668f"
       },
       "fieldConfig": {
         "defaults": {
@@ -357,7 +357,7 @@
         {
           "datasource": {
             "type": "grafana-postgresql-datasource",
-            "uid": "adpg3priy4oowc"
+            "uid": "cf65lbpm63668f"
           },
           "editorMode": "code",
           "format": "table",
@@ -390,7 +390,7 @@
       "datasource": {
         "default": true,
         "type": "grafana-postgresql-datasource",
-        "uid": "adpg3priy4oowc"
+        "uid": "cf65lbpm63668f"
       },
       "fieldConfig": {
         "defaults": {
@@ -445,7 +445,7 @@
         {
           "datasource": {
             "type": "grafana-postgresql-datasource",
-            "uid": "adpg3priy4oowc"
+            "uid": "cf65lbpm63668f"
           },
           "editorMode": "code",
           "format": "table",
@@ -478,7 +478,7 @@
       "datasource": {
         "default": true,
         "type": "grafana-postgresql-datasource",
-        "uid": "adpg3priy4oowc"
+        "uid": "cf65lbpm63668f"
       },
       "fieldConfig": {
         "defaults": {
@@ -533,7 +533,7 @@
         {
           "datasource": {
             "type": "grafana-postgresql-datasource",
-            "uid": "adpg3priy4oowc"
+            "uid": "cf65lbpm63668f"
           },
           "editorMode": "code",
           "format": "table",
@@ -566,7 +566,7 @@
       "datasource": {
         "default": true,
         "type": "grafana-postgresql-datasource",
-        "uid": "adpg3priy4oowc"
+        "uid": "cf65lbpm63668f"
       },
       "fieldConfig": {
         "defaults": {
@@ -623,7 +623,7 @@
         {
           "datasource": {
             "type": "grafana-postgresql-datasource",
-            "uid": "adpg3priy4oowc"
+            "uid": "cf65lbpm63668f"
           },
           "editorMode": "code",
           "format": "table",
@@ -655,7 +655,7 @@
     {
       "datasource": {
         "type": "grafana-postgresql-datasource",
-        "uid": "adpg3priy4oowc"
+        "uid": "cf65lbpm63668f"
       },
       "fieldConfig": {
         "defaults": {
@@ -706,7 +706,7 @@
         {
           "datasource": {
             "type": "grafana-postgresql-datasource",
-            "uid": "adpg3priy4oowc"
+            "uid": "cf65lbpm63668f"
           },
           "editorMode": "code",
           "format": "table",
@@ -738,7 +738,7 @@
     {
       "datasource": {
         "type": "grafana-postgresql-datasource",
-        "uid": "adpg3priy4oowc"
+        "uid": "cf65lbpm63668f"
       },
       "fieldConfig": {
         "defaults": {
@@ -789,7 +789,7 @@
         {
           "datasource": {
             "type": "grafana-postgresql-datasource",
-            "uid": "adpg3priy4oowc"
+            "uid": "cf65lbpm63668f"
           },
           "editorMode": "code",
           "format": "table",
@@ -822,7 +822,7 @@
       "datasource": {
         "default": true,
         "type": "grafana-postgresql-datasource",
-        "uid": "adpg3priy4oowc"
+        "uid": "cf65lbpm63668f"
       },
       "fieldConfig": {
         "defaults": {
@@ -873,7 +873,7 @@
         {
           "datasource": {
             "type": "grafana-postgresql-datasource",
-            "uid": "adpg3priy4oowc"
+            "uid": "cf65lbpm63668f"
           },
           "editorMode": "code",
           "format": "table",
@@ -906,7 +906,7 @@
       "datasource": {
         "default": true,
         "type": "grafana-postgresql-datasource",
-        "uid": "adpg3priy4oowc"
+        "uid": "cf65lbpm63668f"
       },
       "fieldConfig": {
         "defaults": {
@@ -957,7 +957,7 @@
         {
           "datasource": {
             "type": "grafana-postgresql-datasource",
-            "uid": "adpg3priy4oowc"
+            "uid": "cf65lbpm63668f"
           },
           "editorMode": "code",
           "format": "table",
@@ -990,7 +990,7 @@
       "datasource": {
         "default": true,
         "type": "grafana-postgresql-datasource",
-        "uid": "adpg3priy4oowc"
+        "uid": "cf65lbpm63668f"
       },
       "description": "최소 참고치 100%",
       "fieldConfig": {
@@ -1220,7 +1220,7 @@
         {
           "datasource": {
             "type": "grafana-postgresql-datasource",
-            "uid": "adpg3priy4oowc"
+            "uid": "cf65lbpm63668f"
           },
           "editorMode": "code",
           "format": "table",
@@ -1253,7 +1253,7 @@
       "datasource": {
         "default": true,
         "type": "grafana-postgresql-datasource",
-        "uid": "adpg3priy4oowc"
+        "uid": "cf65lbpm63668f"
       },
       "description": "최대 참고치 100%",
       "fieldConfig": {
@@ -1483,7 +1483,7 @@
         {
           "datasource": {
             "type": "grafana-postgresql-datasource",
-            "uid": "adpg3priy4oowc"
+            "uid": "cf65lbpm63668f"
           },
           "editorMode": "code",
           "format": "table",
@@ -1529,7 +1529,7 @@
       "datasource": {
         "default": true,
         "type": "grafana-postgresql-datasource",
-        "uid": "adpg3priy4oowc"
+        "uid": "cf65lbpm63668f"
       },
       "description": "",
       "fieldConfig": {
@@ -1791,7 +1791,7 @@
         {
           "datasource": {
             "type": "grafana-postgresql-datasource",
-            "uid": "adpg3priy4oowc"
+            "uid": "cf65lbpm63668f"
           },
           "editorMode": "code",
           "format": "table",
@@ -1864,7 +1864,7 @@
       "datasource": {
         "default": true,
         "type": "grafana-postgresql-datasource",
-        "uid": "adpg3priy4oowc"
+        "uid": "cf65lbpm63668f"
       },
       "description": "",
       "fieldConfig": {
@@ -1949,7 +1949,7 @@
         {
           "datasource": {
             "type": "grafana-postgresql-datasource",
-            "uid": "adpg3priy4oowc"
+            "uid": "cf65lbpm63668f"
           },
           "editorMode": "code",
           "format": "table",
@@ -1994,7 +1994,7 @@
       "datasource": {
         "default": true,
         "type": "grafana-postgresql-datasource",
-        "uid": "adpg3priy4oowc"
+        "uid": "cf65lbpm63668f"
       },
       "description": "",
       "fieldConfig": {
@@ -2311,7 +2311,7 @@
         {
           "datasource": {
             "type": "grafana-postgresql-datasource",
-            "uid": "adpg3priy4oowc"
+            "uid": "cf65lbpm63668f"
           },
           "editorMode": "code",
           "format": "table",
@@ -2401,7 +2401,7 @@
       "datasource": {
         "default": true,
         "type": "grafana-postgresql-datasource",
-        "uid": "adpg3priy4oowc"
+        "uid": "cf65lbpm63668f"
       },
       "description": "",
       "fieldConfig": {
@@ -2653,7 +2653,7 @@
         {
           "datasource": {
             "type": "grafana-postgresql-datasource",
-            "uid": "adpg3priy4oowc"
+            "uid": "cf65lbpm63668f"
           },
           "editorMode": "code",
           "format": "table",
@@ -2727,7 +2727,7 @@
       "datasource": {
         "default": true,
         "type": "grafana-postgresql-datasource",
-        "uid": "adpg3priy4oowc"
+        "uid": "cf65lbpm63668f"
       },
       "description": "",
       "fieldConfig": {
@@ -2903,7 +2903,7 @@
         {
           "datasource": {
             "type": "grafana-postgresql-datasource",
-            "uid": "adpg3priy4oowc"
+            "uid": "cf65lbpm63668f"
           },
           "editorMode": "code",
           "format": "table",
@@ -3008,7 +3008,7 @@
       "datasource": {
         "default": true,
         "type": "grafana-postgresql-datasource",
-        "uid": "adpg3priy4oowc"
+        "uid": "cf65lbpm63668f"
       },
       "description": "",
       "fieldConfig": {
@@ -3184,7 +3184,7 @@
         {
           "datasource": {
             "type": "grafana-postgresql-datasource",
-            "uid": "adpg3priy4oowc"
+            "uid": "cf65lbpm63668f"
           },
           "editorMode": "code",
           "format": "table",
@@ -3289,7 +3289,7 @@
       "datasource": {
         "default": true,
         "type": "grafana-postgresql-datasource",
-        "uid": "adpg3priy4oowc"
+        "uid": "cf65lbpm63668f"
       },
       "description": "",
       "fieldConfig": {
@@ -3465,7 +3465,7 @@
         {
           "datasource": {
             "type": "grafana-postgresql-datasource",
-            "uid": "adpg3priy4oowc"
+            "uid": "cf65lbpm63668f"
           },
           "editorMode": "code",
           "format": "table",
@@ -3582,7 +3582,7 @@
     {
       "datasource": {
         "type": "grafana-postgresql-datasource",
-        "uid": "adpg3priy4oowc"
+        "uid": "cf65lbpm63668f"
       },
       "description": "",
       "fieldConfig": {
@@ -3758,7 +3758,7 @@
         {
           "datasource": {
             "type": "grafana-postgresql-datasource",
-            "uid": "adpg3priy4oowc"
+            "uid": "cf65lbpm63668f"
           },
           "editorMode": "code",
           "format": "table",
@@ -3862,7 +3862,7 @@
     {
       "datasource": {
         "type": "grafana-postgresql-datasource",
-        "uid": "adpg3priy4oowc"
+        "uid": "cf65lbpm63668f"
       },
       "description": "",
       "fieldConfig": {
@@ -4032,7 +4032,7 @@
         {
           "datasource": {
             "type": "grafana-postgresql-datasource",
-            "uid": "adpg3priy4oowc"
+            "uid": "cf65lbpm63668f"
           },
           "editorMode": "code",
           "format": "table",
@@ -4136,7 +4136,7 @@
     {
       "datasource": {
         "type": "grafana-postgresql-datasource",
-        "uid": "adpg3priy4oowc"
+        "uid": "cf65lbpm63668f"
       },
       "description": "",
       "fieldConfig": {
@@ -4306,7 +4306,7 @@
         {
           "datasource": {
             "type": "grafana-postgresql-datasource",
-            "uid": "adpg3priy4oowc"
+            "uid": "cf65lbpm63668f"
           },
           "editorMode": "code",
           "format": "table",
@@ -4410,7 +4410,7 @@
     {
       "datasource": {
         "type": "grafana-postgresql-datasource",
-        "uid": "adpg3priy4oowc"
+        "uid": "cf65lbpm63668f"
       },
       "description": "",
       "fieldConfig": {
@@ -4580,7 +4580,7 @@
         {
           "datasource": {
             "type": "grafana-postgresql-datasource",
-            "uid": "adpg3priy4oowc"
+            "uid": "cf65lbpm63668f"
           },
           "editorMode": "code",
           "format": "table",
@@ -4684,7 +4684,7 @@
     {
       "datasource": {
         "type": "grafana-postgresql-datasource",
-        "uid": "adpg3priy4oowc"
+        "uid": "cf65lbpm63668f"
       },
       "description": "",
       "fieldConfig": {
@@ -4854,7 +4854,7 @@
         {
           "datasource": {
             "type": "grafana-postgresql-datasource",
-            "uid": "adpg3priy4oowc"
+            "uid": "cf65lbpm63668f"
           },
           "editorMode": "code",
           "format": "table",
@@ -4958,7 +4958,7 @@
     {
       "datasource": {
         "type": "grafana-postgresql-datasource",
-        "uid": "adpg3priy4oowc"
+        "uid": "cf65lbpm63668f"
       },
       "description": "",
       "fieldConfig": {
@@ -5128,7 +5128,7 @@
         {
           "datasource": {
             "type": "grafana-postgresql-datasource",
-            "uid": "adpg3priy4oowc"
+            "uid": "cf65lbpm63668f"
           },
           "editorMode": "code",
           "format": "table",
@@ -5245,7 +5245,7 @@
     {
       "datasource": {
         "type": "grafana-postgresql-datasource",
-        "uid": "adpg3priy4oowc"
+        "uid": "cf65lbpm63668f"
       },
       "description": "",
       "fieldConfig": {
@@ -5415,7 +5415,7 @@
         {
           "datasource": {
             "type": "grafana-postgresql-datasource",
-            "uid": "adpg3priy4oowc"
+            "uid": "cf65lbpm63668f"
           },
           "editorMode": "code",
           "format": "table",
@@ -5519,7 +5519,7 @@
     {
       "datasource": {
         "type": "grafana-postgresql-datasource",
-        "uid": "adpg3priy4oowc"
+        "uid": "cf65lbpm63668f"
       },
       "description": "",
       "fieldConfig": {
@@ -5689,7 +5689,7 @@
         {
           "datasource": {
             "type": "grafana-postgresql-datasource",
-            "uid": "adpg3priy4oowc"
+            "uid": "cf65lbpm63668f"
           },
           "editorMode": "code",
           "format": "table",
@@ -5793,7 +5793,7 @@
     {
       "datasource": {
         "type": "grafana-postgresql-datasource",
-        "uid": "adpg3priy4oowc"
+        "uid": "cf65lbpm63668f"
       },
       "description": "",
       "fieldConfig": {
@@ -5963,7 +5963,7 @@
         {
           "datasource": {
             "type": "grafana-postgresql-datasource",
-            "uid": "adpg3priy4oowc"
+            "uid": "cf65lbpm63668f"
           },
           "editorMode": "code",
           "format": "table",
@@ -6067,7 +6067,7 @@
     {
       "datasource": {
         "type": "grafana-postgresql-datasource",
-        "uid": "adpg3priy4oowc"
+        "uid": "cf65lbpm63668f"
       },
       "description": "",
       "fieldConfig": {
@@ -6239,7 +6239,7 @@
         {
           "datasource": {
             "type": "grafana-postgresql-datasource",
-            "uid": "adpg3priy4oowc"
+            "uid": "cf65lbpm63668f"
           },
           "editorMode": "code",
           "format": "table",
@@ -6343,7 +6343,7 @@
     {
       "datasource": {
         "type": "grafana-postgresql-datasource",
-        "uid": "adpg3priy4oowc"
+        "uid": "cf65lbpm63668f"
       },
       "description": "",
       "fieldConfig": {
@@ -6513,7 +6513,7 @@
         {
           "datasource": {
             "type": "grafana-postgresql-datasource",
-            "uid": "adpg3priy4oowc"
+            "uid": "cf65lbpm63668f"
           },
           "editorMode": "code",
           "format": "table",
@@ -6617,7 +6617,7 @@
     {
       "datasource": {
         "type": "grafana-postgresql-datasource",
-        "uid": "adpg3priy4oowc"
+        "uid": "cf65lbpm63668f"
       },
       "description": "",
       "fieldConfig": {
@@ -6787,7 +6787,7 @@
         {
           "datasource": {
             "type": "grafana-postgresql-datasource",
-            "uid": "adpg3priy4oowc"
+            "uid": "cf65lbpm63668f"
           },
           "editorMode": "code",
           "format": "table",
@@ -6891,7 +6891,7 @@
     {
       "datasource": {
         "type": "grafana-postgresql-datasource",
-        "uid": "adpg3priy4oowc"
+        "uid": "cf65lbpm63668f"
       },
       "description": "",
       "fieldConfig": {
@@ -7061,7 +7061,7 @@
         {
           "datasource": {
             "type": "grafana-postgresql-datasource",
-            "uid": "adpg3priy4oowc"
+            "uid": "cf65lbpm63668f"
           },
           "editorMode": "code",
           "format": "table",
@@ -7165,7 +7165,7 @@
     {
       "datasource": {
         "type": "grafana-postgresql-datasource",
-        "uid": "adpg3priy4oowc"
+        "uid": "cf65lbpm63668f"
       },
       "description": "",
       "fieldConfig": {
@@ -7335,7 +7335,7 @@
         {
           "datasource": {
             "type": "grafana-postgresql-datasource",
-            "uid": "adpg3priy4oowc"
+            "uid": "cf65lbpm63668f"
           },
           "editorMode": "code",
           "format": "table",
@@ -7439,7 +7439,7 @@
     {
       "datasource": {
         "type": "grafana-postgresql-datasource",
-        "uid": "adpg3priy4oowc"
+        "uid": "cf65lbpm63668f"
       },
       "description": "",
       "fieldConfig": {
@@ -7609,7 +7609,7 @@
         {
           "datasource": {
             "type": "grafana-postgresql-datasource",
-            "uid": "adpg3priy4oowc"
+            "uid": "cf65lbpm63668f"
           },
           "editorMode": "code",
           "format": "table",
@@ -7713,7 +7713,7 @@
     {
       "datasource": {
         "type": "grafana-postgresql-datasource",
-        "uid": "adpg3priy4oowc"
+        "uid": "cf65lbpm63668f"
       },
       "description": "",
       "fieldConfig": {
@@ -7883,7 +7883,7 @@
         {
           "datasource": {
             "type": "grafana-postgresql-datasource",
-            "uid": "adpg3priy4oowc"
+            "uid": "cf65lbpm63668f"
           },
           "editorMode": "code",
           "format": "table",
@@ -7987,7 +7987,7 @@
     {
       "datasource": {
         "type": "grafana-postgresql-datasource",
-        "uid": "adpg3priy4oowc"
+        "uid": "cf65lbpm63668f"
       },
       "description": "",
       "fieldConfig": {
@@ -8157,7 +8157,7 @@
         {
           "datasource": {
             "type": "grafana-postgresql-datasource",
-            "uid": "adpg3priy4oowc"
+            "uid": "cf65lbpm63668f"
           },
           "editorMode": "code",
           "format": "table",
@@ -8261,7 +8261,7 @@
     {
       "datasource": {
         "type": "grafana-postgresql-datasource",
-        "uid": "adpg3priy4oowc"
+        "uid": "cf65lbpm63668f"
       },
       "description": "",
       "fieldConfig": {
@@ -8431,7 +8431,7 @@
         {
           "datasource": {
             "type": "grafana-postgresql-datasource",
-            "uid": "adpg3priy4oowc"
+            "uid": "cf65lbpm63668f"
           },
           "editorMode": "code",
           "format": "table",
@@ -8535,7 +8535,7 @@
     {
       "datasource": {
         "type": "grafana-postgresql-datasource",
-        "uid": "adpg3priy4oowc"
+        "uid": "cf65lbpm63668f"
       },
       "description": "",
       "fieldConfig": {
@@ -8705,7 +8705,7 @@
         {
           "datasource": {
             "type": "grafana-postgresql-datasource",
-            "uid": "adpg3priy4oowc"
+            "uid": "cf65lbpm63668f"
           },
           "editorMode": "code",
           "format": "table",
@@ -8809,7 +8809,7 @@
     {
       "datasource": {
         "type": "grafana-postgresql-datasource",
-        "uid": "adpg3priy4oowc"
+        "uid": "cf65lbpm63668f"
       },
       "description": "",
       "fieldConfig": {
@@ -8979,7 +8979,7 @@
         {
           "datasource": {
             "type": "grafana-postgresql-datasource",
-            "uid": "adpg3priy4oowc"
+            "uid": "cf65lbpm63668f"
           },
           "editorMode": "code",
           "format": "table",
@@ -9083,7 +9083,7 @@
     {
       "datasource": {
         "type": "grafana-postgresql-datasource",
-        "uid": "adpg3priy4oowc"
+        "uid": "cf65lbpm63668f"
       },
       "description": "",
       "fieldConfig": {
@@ -9253,7 +9253,7 @@
         {
           "datasource": {
             "type": "grafana-postgresql-datasource",
-            "uid": "adpg3priy4oowc"
+            "uid": "cf65lbpm63668f"
           },
           "editorMode": "code",
           "format": "table",
@@ -9357,7 +9357,7 @@
     {
       "datasource": {
         "type": "grafana-postgresql-datasource",
-        "uid": "adpg3priy4oowc"
+        "uid": "cf65lbpm63668f"
       },
       "description": "",
       "fieldConfig": {
@@ -9527,7 +9527,7 @@
         {
           "datasource": {
             "type": "grafana-postgresql-datasource",
-            "uid": "adpg3priy4oowc"
+            "uid": "cf65lbpm63668f"
           },
           "editorMode": "code",
           "format": "table",
@@ -9631,7 +9631,7 @@
     {
       "datasource": {
         "type": "grafana-postgresql-datasource",
-        "uid": "adpg3priy4oowc"
+        "uid": "cf65lbpm63668f"
       },
       "description": "",
       "fieldConfig": {
@@ -9801,7 +9801,7 @@
         {
           "datasource": {
             "type": "grafana-postgresql-datasource",
-            "uid": "adpg3priy4oowc"
+            "uid": "cf65lbpm63668f"
           },
           "editorMode": "code",
           "format": "table",
@@ -9905,7 +9905,7 @@
     {
       "datasource": {
         "type": "grafana-postgresql-datasource",
-        "uid": "adpg3priy4oowc"
+        "uid": "cf65lbpm63668f"
       },
       "description": "",
       "fieldConfig": {
@@ -10075,7 +10075,7 @@
         {
           "datasource": {
             "type": "grafana-postgresql-datasource",
-            "uid": "adpg3priy4oowc"
+            "uid": "cf65lbpm63668f"
           },
           "editorMode": "code",
           "format": "table",
@@ -10179,7 +10179,7 @@
     {
       "datasource": {
         "type": "grafana-postgresql-datasource",
-        "uid": "adpg3priy4oowc"
+        "uid": "cf65lbpm63668f"
       },
       "description": "",
       "fieldConfig": {
@@ -10349,7 +10349,7 @@
         {
           "datasource": {
             "type": "grafana-postgresql-datasource",
-            "uid": "adpg3priy4oowc"
+            "uid": "cf65lbpm63668f"
           },
           "editorMode": "code",
           "format": "table",
@@ -10453,7 +10453,7 @@
     {
       "datasource": {
         "type": "grafana-postgresql-datasource",
-        "uid": "adpg3priy4oowc"
+        "uid": "cf65lbpm63668f"
       },
       "description": "",
       "fieldConfig": {
@@ -10623,7 +10623,7 @@
         {
           "datasource": {
             "type": "grafana-postgresql-datasource",
-            "uid": "adpg3priy4oowc"
+            "uid": "cf65lbpm63668f"
           },
           "editorMode": "code",
           "format": "table",
@@ -10727,7 +10727,7 @@
     {
       "datasource": {
         "type": "grafana-postgresql-datasource",
-        "uid": "adpg3priy4oowc"
+        "uid": "cf65lbpm63668f"
       },
       "description": "",
       "fieldConfig": {
@@ -10897,7 +10897,7 @@
         {
           "datasource": {
             "type": "grafana-postgresql-datasource",
-            "uid": "adpg3priy4oowc"
+            "uid": "cf65lbpm63668f"
           },
           "editorMode": "code",
           "format": "table",
@@ -11001,7 +11001,7 @@
     {
       "datasource": {
         "type": "grafana-postgresql-datasource",
-        "uid": "adpg3priy4oowc"
+        "uid": "cf65lbpm63668f"
       },
       "description": "",
       "fieldConfig": {
@@ -11171,7 +11171,7 @@
         {
           "datasource": {
             "type": "grafana-postgresql-datasource",
-            "uid": "adpg3priy4oowc"
+            "uid": "cf65lbpm63668f"
           },
           "editorMode": "code",
           "format": "table",
@@ -11288,7 +11288,7 @@
     {
       "datasource": {
         "type": "grafana-postgresql-datasource",
-        "uid": "adpg3priy4oowc"
+        "uid": "cf65lbpm63668f"
       },
       "description": "",
       "fieldConfig": {
@@ -11458,7 +11458,7 @@
         {
           "datasource": {
             "type": "grafana-postgresql-datasource",
-            "uid": "adpg3priy4oowc"
+            "uid": "cf65lbpm63668f"
           },
           "editorMode": "code",
           "format": "table",
@@ -11562,7 +11562,7 @@
     {
       "datasource": {
         "type": "grafana-postgresql-datasource",
-        "uid": "adpg3priy4oowc"
+        "uid": "cf65lbpm63668f"
       },
       "description": "",
       "fieldConfig": {
@@ -11732,7 +11732,7 @@
         {
           "datasource": {
             "type": "grafana-postgresql-datasource",
-            "uid": "adpg3priy4oowc"
+            "uid": "cf65lbpm63668f"
           },
           "editorMode": "code",
           "format": "table",
@@ -11837,7 +11837,7 @@
       "datasource": {
         "default": true,
         "type": "grafana-postgresql-datasource",
-        "uid": "adpg3priy4oowc"
+        "uid": "cf65lbpm63668f"
       },
       "description": "",
       "fieldConfig": {
@@ -11981,7 +11981,7 @@
         {
           "datasource": {
             "type": "grafana-postgresql-datasource",
-            "uid": "adpg3priy4oowc"
+            "uid": "cf65lbpm63668f"
           },
           "editorMode": "code",
           "format": "table",
@@ -12070,7 +12070,7 @@
       "datasource": {
         "default": true,
         "type": "grafana-postgresql-datasource",
-        "uid": "adpg3priy4oowc"
+        "uid": "cf65lbpm63668f"
       },
       "description": "",
       "fieldConfig": {
@@ -12212,7 +12212,7 @@
         {
           "datasource": {
             "type": "grafana-postgresql-datasource",
-            "uid": "adpg3priy4oowc"
+            "uid": "cf65lbpm63668f"
           },
           "editorMode": "code",
           "format": "table",
@@ -12301,7 +12301,7 @@
       "datasource": {
         "default": true,
         "type": "grafana-postgresql-datasource",
-        "uid": "adpg3priy4oowc"
+        "uid": "cf65lbpm63668f"
       },
       "description": "",
       "fieldConfig": {
@@ -12443,7 +12443,7 @@
         {
           "datasource": {
             "type": "grafana-postgresql-datasource",
-            "uid": "adpg3priy4oowc"
+            "uid": "cf65lbpm63668f"
           },
           "editorMode": "code",
           "format": "table",
@@ -12532,7 +12532,7 @@
       "datasource": {
         "default": true,
         "type": "grafana-postgresql-datasource",
-        "uid": "adpg3priy4oowc"
+        "uid": "cf65lbpm63668f"
       },
       "description": "",
       "fieldConfig": {
@@ -12674,7 +12674,7 @@
         {
           "datasource": {
             "type": "grafana-postgresql-datasource",
-            "uid": "adpg3priy4oowc"
+            "uid": "cf65lbpm63668f"
           },
           "editorMode": "code",
           "format": "table",
@@ -12762,7 +12762,7 @@
     {
       "datasource": {
         "type": "grafana-postgresql-datasource",
-        "uid": "adpg3priy4oowc"
+        "uid": "cf65lbpm63668f"
       },
       "description": "",
       "fieldConfig": {
@@ -12904,7 +12904,7 @@
         {
           "datasource": {
             "type": "grafana-postgresql-datasource",
-            "uid": "adpg3priy4oowc"
+            "uid": "cf65lbpm63668f"
           },
           "editorMode": "code",
           "format": "table",
@@ -12993,7 +12993,7 @@
       "datasource": {
         "default": true,
         "type": "grafana-postgresql-datasource",
-        "uid": "adpg3priy4oowc"
+        "uid": "cf65lbpm63668f"
       },
       "description": "",
       "fieldConfig": {
@@ -13135,7 +13135,7 @@
         {
           "datasource": {
             "type": "grafana-postgresql-datasource",
-            "uid": "adpg3priy4oowc"
+            "uid": "cf65lbpm63668f"
           },
           "editorMode": "code",
           "format": "table",
@@ -13224,7 +13224,7 @@
       "datasource": {
         "default": true,
         "type": "grafana-postgresql-datasource",
-        "uid": "adpg3priy4oowc"
+        "uid": "cf65lbpm63668f"
       },
       "description": "",
       "fieldConfig": {
@@ -13366,7 +13366,7 @@
         {
           "datasource": {
             "type": "grafana-postgresql-datasource",
-            "uid": "adpg3priy4oowc"
+            "uid": "cf65lbpm63668f"
           },
           "editorMode": "code",
           "format": "table",
@@ -13455,7 +13455,7 @@
       "datasource": {
         "default": true,
         "type": "grafana-postgresql-datasource",
-        "uid": "adpg3priy4oowc"
+        "uid": "cf65lbpm63668f"
       },
       "description": "",
       "fieldConfig": {
@@ -13597,7 +13597,7 @@
         {
           "datasource": {
             "type": "grafana-postgresql-datasource",
-            "uid": "adpg3priy4oowc"
+            "uid": "cf65lbpm63668f"
           },
           "editorMode": "code",
           "format": "table",
@@ -13686,7 +13686,7 @@
       "datasource": {
         "default": true,
         "type": "grafana-postgresql-datasource",
-        "uid": "adpg3priy4oowc"
+        "uid": "cf65lbpm63668f"
       },
       "description": "",
       "fieldConfig": {
@@ -13828,7 +13828,7 @@
         {
           "datasource": {
             "type": "grafana-postgresql-datasource",
-            "uid": "adpg3priy4oowc"
+            "uid": "cf65lbpm63668f"
           },
           "editorMode": "code",
           "format": "table",
@@ -13917,7 +13917,7 @@
       "datasource": {
         "default": true,
         "type": "grafana-postgresql-datasource",
-        "uid": "adpg3priy4oowc"
+        "uid": "cf65lbpm63668f"
       },
       "description": "",
       "fieldConfig": {
@@ -14059,7 +14059,7 @@
         {
           "datasource": {
             "type": "grafana-postgresql-datasource",
-            "uid": "adpg3priy4oowc"
+            "uid": "cf65lbpm63668f"
           },
           "editorMode": "code",
           "format": "table",
@@ -14147,7 +14147,7 @@
     {
       "datasource": {
         "type": "grafana-postgresql-datasource",
-        "uid": "adpg3priy4oowc"
+        "uid": "cf65lbpm63668f"
       },
       "description": "",
       "fieldConfig": {
@@ -14289,7 +14289,7 @@
         {
           "datasource": {
             "type": "grafana-postgresql-datasource",
-            "uid": "adpg3priy4oowc"
+            "uid": "cf65lbpm63668f"
           },
           "editorMode": "code",
           "format": "table",
@@ -14390,7 +14390,7 @@
     {
       "datasource": {
         "type": "grafana-postgresql-datasource",
-        "uid": "adpg3priy4oowc"
+        "uid": "cf65lbpm63668f"
       },
       "description": "",
       "fieldConfig": {
@@ -14565,7 +14565,7 @@
         {
           "datasource": {
             "type": "grafana-postgresql-datasource",
-            "uid": "adpg3priy4oowc"
+            "uid": "cf65lbpm63668f"
           },
           "editorMode": "code",
           "format": "table",
@@ -14662,7 +14662,7 @@
     {
       "datasource": {
         "type": "grafana-postgresql-datasource",
-        "uid": "adpg3priy4oowc"
+        "uid": "cf65lbpm63668f"
       },
       "description": "",
       "fieldConfig": {
@@ -14837,7 +14837,7 @@
         {
           "datasource": {
             "type": "grafana-postgresql-datasource",
-            "uid": "adpg3priy4oowc"
+            "uid": "cf65lbpm63668f"
           },
           "editorMode": "code",
           "format": "table",
@@ -14948,7 +14948,7 @@
       "datasource": {
         "default": true,
         "type": "grafana-postgresql-datasource",
-        "uid": "adpg3priy4oowc"
+        "uid": "cf65lbpm63668f"
       },
       "description": "AI는 정확하거나 완전할 수 없습니다. 데이터의 한계, 알고리즘의 오류 등으로 인해 잘못된 정보가 제공될 수 있습니다. 또한 모든 종류의 의료 상황이나 조건에 맞게 설계되었다고 보장하지 않습니다. 특정 상황에서의 사용 적합성도 보장하지 않습니다.",
       "fieldConfig": {
@@ -15098,7 +15098,7 @@
         {
           "datasource": {
             "type": "grafana-postgresql-datasource",
-            "uid": "adpg3priy4oowc"
+            "uid": "cf65lbpm63668f"
           },
           "editorMode": "code",
           "format": "table",
@@ -15163,7 +15163,7 @@
         },
         "datasource": {
           "type": "grafana-postgresql-datasource",
-          "uid": "adpg3priy4oowc"
+          "uid": "cf65lbpm63668f"
         },
         "definition": "SELECT usr_id\nFROM med_exam_usr\nGROUP BY usr_id\nORDER BY usr_id",
         "hide": 0,
@@ -15191,7 +15191,7 @@
         },
         "datasource": {
           "type": "grafana-postgresql-datasource",
-          "uid": "adpg3priy4oowc"
+          "uid": "cf65lbpm63668f"
         },
         "definition": "SELECT com_cd_nm __text\n  , com_cd __value\nFROM com_cd\nWHERE use_yn = 'Y'\n  AND com_cd_id = 'M03'\nORDER BY com_cd",
         "hide": 0,
@@ -15220,7 +15220,7 @@
         },
         "datasource": {
           "type": "grafana-postgresql-datasource",
-          "uid": "adpg3priy4oowc"
+          "uid": "cf65lbpm63668f"
         },
         "definition": "SELECT exam_id\nFROM med_exam_desc\nGROUP BY exam_id\nORDER BY exam_id",
         "hide": 0,
@@ -15249,7 +15249,7 @@
         },
         "datasource": {
           "type": "grafana-postgresql-datasource",
-          "uid": "adpg3priy4oowc"
+          "uid": "cf65lbpm63668f"
         },
         "definition": "SELECT TO_CHAR(rslt_tm, 'YYYY-MM-DD')\nFROM med_exam_rslt\nGROUP BY TO_CHAR(rslt_tm, 'YYYY-MM-DD')\nORDER BY TO_CHAR(rslt_tm, 'YYYY-MM-DD')",
         "hide": 0,
@@ -15278,7 +15278,7 @@
         },
         "datasource": {
           "type": "grafana-postgresql-datasource",
-          "uid": "adpg3priy4oowc"
+          "uid": "cf65lbpm63668f"
         },
         "definition": "SELECT com_cd_nm __text\n  , com_cd __value\nFROM com_cd\nWHERE use_yn = 'Y'\n  AND com_cd_id = 'M01'\nORDER BY com_cd",
         "hide": 0,
@@ -15306,7 +15306,7 @@
         },
         "datasource": {
           "type": "grafana-postgresql-datasource",
-          "uid": "adpg3priy4oowc"
+          "uid": "cf65lbpm63668f"
         },
         "definition": "SELECT com_cd_nm __text\n  , com_cd __value\nFROM com_cd\nWHERE use_yn = 'Y'\n  AND com_cd_id = 'M06'\nORDER BY com_cd",
         "hide": 0,
@@ -15335,7 +15335,7 @@
         },
         "datasource": {
           "type": "grafana-postgresql-datasource",
-          "uid": "adpg3priy4oowc"
+          "uid": "cf65lbpm63668f"
         },
         "definition": "SELECT com_cd_nm __text\n  , com_cd __value\nFROM com_cd\nWHERE use_yn = 'Y'\n  AND com_cd_id = 'M02'\nORDER BY com_cd",
         "hide": 0,
@@ -15363,7 +15363,7 @@
         },
         "datasource": {
           "type": "grafana-postgresql-datasource",
-          "uid": "adpg3priy4oowc"
+          "uid": "cf65lbpm63668f"
         },
         "definition": "SELECT model\nFROM med_exam_ai\nGROUP BY model\n  , ord\nORDER BY ord",
         "hide": 0,
