@@ -34,6 +34,7 @@
 ![image](https://github.com/dntco43u/med_exam/blob/main/img/demo_page4.webp?)
 ![image](https://github.com/dntco43u/med_exam/blob/main/img/demo_page5.webp?)
 ![image](https://github.com/dntco43u/med_exam/blob/main/img/demo_page6.webp?)
+![image](https://github.com/dntco43u/med_exam/blob/main/img/demo_page7.webp?)
 
 [^1]: grafana 계정 불필요. 무료 dns라 불안정함. 여러 차례 시도해야 할 수 있음. ([데모 페이지 상태 확인](https://up.gvp6nx1a.duckdns.org/status/grafana))
 [^2]: grafana 계정 필요.
