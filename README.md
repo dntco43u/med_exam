@@ -8,6 +8,11 @@
 - Python 3.9.18
 - Grafana 11.2.1
 
+## 요구 사항
+- 코드로 처리될 수 있는 값들은 공통 코드 테이블에 입력.
+- 주민등록번호 AES256 암호화 처리, 복호화 key는 갱신 될 수 있도록.
+- 피실험자 key로 삽입과 삭제 처리.
+
 ## 기초 데이터 수집
 모집 공고와 이메일 등으로 제공되는 검진 결과를 BeautifulSoup으로 구문분석함.
 ![image](https://github.com/dntco43u/med_exam/blob/main/img/base_data.webp?raw=true "피실험자에게 공개된 기초 데이터 html")
