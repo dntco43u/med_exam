@@ -29,6 +29,7 @@
 
 ![image](https://github.com/dntco43u/med_exam/blob/main/img/demo_page1.webp?)
 병원에서 제공하는 min-max값을 벗어나는 경우 ×로 그외에는 ✓로 표기.
+
 ![image](https://github.com/dntco43u/med_exam/blob/main/img/demo_page2.webp?)
 ![image](https://github.com/dntco43u/med_exam/blob/main/img/demo_page3.webp?)
 ![image](https://github.com/dntco43u/med_exam/blob/main/img/demo_page4.webp?)
