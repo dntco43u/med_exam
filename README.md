@@ -9,8 +9,8 @@
 - Grafana 11.2.1
 
 ## 요구 사항
-- 코드로 처리될 수 있는 값들은 공통 코드 테이블에 입력.
-- 피실험자 이름, 주민등록번호 AES256 암호화 처리, 복호화 key는 갱신 될 수 있도록.
+- 코드로 처리될 수 있는 값들은 업무/공통 코드 테이블에 입력.
+- 피실험자 이름, 주민등록번호 AES256 암호화 처리, 암/복호화 key는 갱신 될 수 있도록.
 - 화면에서 출력하는 개인 정보는 마스킹 처리.
 - 피실험자 key로 일괄 삽입, 삭제 처리.
 
@@ -31,6 +31,8 @@
 ![image](https://github.com/dntco43u/med_exam/blob/main/img/demo_page2.webp?)
 ![image](https://github.com/dntco43u/med_exam/blob/main/img/demo_page3.webp?)
 ![image](https://github.com/dntco43u/med_exam/blob/main/img/demo_page4.webp?)
+![image](https://github.com/dntco43u/med_exam/blob/main/img/demo_page5.webp?)
+![image](https://github.com/dntco43u/med_exam/blob/main/img/demo_page6.webp?)
 
 [^1]: grafana 계정 불필요. 무료 dns라 불안정함. 여러 차례 시도해야할 수 있음. ([데모 페이지 상태 확인](https://up.gvp6nx1a.duckdns.org/status/grafana))
 [^2]: grafana 계정 필요.
