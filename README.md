@@ -9,16 +9,16 @@
 - Grafana 11.2.1
 
 ## 요구 사항
+- 모집 공고, 병원 홈페이지에서 제공하는 검진 결과를 파싱, 동일 병원 방문 시 재사용할 수 있게.
 - 코드로 처리될 수 있는 값들은 업무/공통 코드 테이블에 입력.
-- 피실험자 이름, 주민등록번호 AES256 암호화 처리, 암/복호화 key는 갱신 될 수 있도록.
+- 피실험자 이름, 주민등록번호 AES256 암호화 처리, 암/복호화 key는 갱신될 수 있도록.
 - 화면에서 출력하는 개인 정보는 마스킹 처리.
 - 피실험자 key로 일괄 삽입, 삭제 처리.
-- 정상 범위 min-max 값을 벗어나는 경우 × 표시와 경고 색상 처리, 정상은 ✓로 표시.
+- 정상 범위 min-max 값을 벗어나는 경우 ×표시와 경고 색상 처리, 정상은 ✓로 표시.
 
 ## 기초 데이터 수집
 ![image](https://github.com/dntco43u/med_exam/blob/main/img/base_data.webp? "피실험자에게 공개된 기초 데이터 html")
-![image](https://github.com/dntco43u/med_exam/blob/main/img/test_rslt.webp? "피실험자에게 공개된 공개된 검사 결과 html")
-###### 모집 공고, 병원 홈페이지에서 제공하는 검진 결과를 BeautifulSoup으로 파싱.
+![image](https://github.com/dntco43u/med_exam/blob/main/img/test_rslt.webp? "피실험자에게 공개된 검사 결과 html")
 
 ## 설계
 모델 설계
@@ -35,5 +35,5 @@
 ![image](https://github.com/dntco43u/med_exam/blob/main/img/demo_page5.webp?)
 ![image](https://github.com/dntco43u/med_exam/blob/main/img/demo_page6.webp?)
 
-[^1]: grafana 계정 불필요. 무료 dns라 불안정함. 여러 차례 시도해야할 수 있음. ([데모 페이지 상태 확인](https://up.gvp6nx1a.duckdns.org/status/grafana))
+[^1]: grafana 계정 불필요. 무료 dns라 불안정함. 여러 차례 시도해야 할 수 있음. ([데모 페이지 상태 확인](https://up.gvp6nx1a.duckdns.org/status/grafana))
 [^2]: grafana 계정 필요.
