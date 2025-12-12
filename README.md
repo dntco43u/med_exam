@@ -25,8 +25,8 @@
 ![image](https://github.com/dntco43u/med_exam/blob/main/pgsql/erd/med_exam.webp?)
 
 ## 구현
-- [데모 페이지 1](https://gr.gvp6nx1a.duckdns.org/d/fdyt7rjk3owzkd/med-exam?orgId=1)[^1]
-- [데모 페이지 2](https://agknwpt3.grafana.net/d/fdyt7rjk3owzkd/med-exam?orgId=1&from=2024-07-23T15:00:00.000Z&to=2024-09-09T14:59:59.000Z&timezone=Asia%2FSeoul&var-usr_id=9VFsW2u8mIqFXMlG7f6irg%3D%3D&var-exam_type_cd=002&var-exam_id=RT51KR-PK01&var-rslt_ymd=$__all&var-exam_a_gb_cd=$__all&var-grdng_cd=$__all&var-exam_b_gb_cd=$__all&var-ai_model=$__all)[^2]
+- [바로 가기 1](https://gr.gvp6nx1a.duckdns.org/d/fdyt7rjk3owzkd/med-exam?orgId=1)[^1]
+- [바로 가기 2](https://agknwpt3.grafana.net/d/fdyt7rjk3owzkd/med-exam?orgId=1&from=2024-07-23T15:00:00.000Z&to=2024-09-09T14:59:59.000Z&timezone=Asia%2FSeoul&var-usr_id=9VFsW2u8mIqFXMlG7f6irg%3D%3D&var-exam_type_cd=002&var-exam_id=RT51KR-PK01&var-rslt_ymd=$__all&var-exam_a_gb_cd=$__all&var-grdng_cd=$__all&var-exam_b_gb_cd=$__all&var-ai_model=$__all)[^2]
 
 ![image](https://github.com/dntco43u/med_exam/blob/main/img/demo_page1.webp?)
 ![image](https://github.com/dntco43u/med_exam/blob/main/img/demo_page2.webp?)
