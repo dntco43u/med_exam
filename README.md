@@ -22,7 +22,7 @@
 
 ## 설계
 모델 설계
-![image](https://github.com/dntco43u/med_exam/blob/main/pgsql/erd/med_exam.webp?)
+![image](https://github.com/dntco43u/med_exam/blob/main/sql/erd/med_exam.webp?)
 
 ## 구현
 - [바로 가기 1](https://gr.gvp6nx1a.duckdns.org/d/fdyt7rjk3owzkd/med-exam?orgId=1)[^1]
