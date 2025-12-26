@@ -21,7 +21,7 @@
 ![image](https://github.com/dntco43u/med_exam/blob/main/img/test_rslt.webp? "피실험자에게 공개된 검사 결과 html")
 
 ## 설계
-모델 설계
+모델
 ![image](https://github.com/dntco43u/med_exam/blob/main/sql/erd/med_exam.webp?)
 
 ## 구현
