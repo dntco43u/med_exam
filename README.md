@@ -17,8 +17,8 @@
 - 정상 범위 min-max 값을 벗어나는 경우 ×표시와 경고 색상 처리, 정상은 ✓로 표시
 
 ## 기초 데이터 수집
-![image](https://github.com/dntco43u/med_exam/blob/main/img/base_data.webp? "피실험자에게 공개된 기초 데이터 html")
-![image](https://github.com/dntco43u/med_exam/blob/main/img/test_rslt.webp? "피실험자에게 공개된 검사 결과 html")
+![image](images/base_data.webp? "피실험자에게 공개된 기초 데이터 html")
+![image](images/test_rslt.webp? "피실험자에게 공개된 검사 결과 html")
 
 ## 설계
 모델
@@ -28,13 +28,13 @@
 - [바로 가기 1](https://gr.gvp6nx1a.duckdns.org/d/fdyt7rjk3owzkd/med-exam?orgId=1)[^1]
 - [바로 가기 2](https://agknwpt3.grafana.net/d/fdyt7rjk3owzkd/med-exam?orgId=1&from=2024-07-23T15:00:00.000Z&to=2024-09-09T14:59:59.000Z&timezone=Asia%2FSeoul&var-usr_id=9VFsW2u8mIqFXMlG7f6irg%3D%3D&var-exam_type_cd=002&var-exam_id=RT51KR-PK01&var-rslt_ymd=$__all&var-exam_a_gb_cd=$__all&var-grdng_cd=$__all&var-exam_b_gb_cd=$__all&var-ai_model=$__all)[^2]
 
-![image](https://github.com/dntco43u/med_exam/blob/main/img/demo_page1.webp?)
-![image](https://github.com/dntco43u/med_exam/blob/main/img/demo_page2.webp?)
-![image](https://github.com/dntco43u/med_exam/blob/main/img/demo_page3.webp?)
-![image](https://github.com/dntco43u/med_exam/blob/main/img/demo_page4.webp?)
-![image](https://github.com/dntco43u/med_exam/blob/main/img/demo_page5.webp?)
-![image](https://github.com/dntco43u/med_exam/blob/main/img/demo_page6.webp?)
-![image](https://github.com/dntco43u/med_exam/blob/main/img/demo_page7.webp?)
+![image](images/demo_page1.webp?)
+![image](images/demo_page2.webp?)
+![image](images/demo_page3.webp?)
+![image](images/demo_page4.webp?)
+![image](images/demo_page5.webp?)
+![image](images/demo_page6.webp?)
+![image](images/demo_page7.webp?)
 
 [^1]: grafana 계정 불필요. 무료 dns라 불안정함. 여러 차례 시도해야 할 수 있음 ([데모 페이지 상태 확인](https://up.gvp6nx1a.duckdns.org/status/grafana))
 [^2]: grafana 계정 필요
