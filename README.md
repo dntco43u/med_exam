@@ -1,14 +1,17 @@
 # med_exam
 
 ## 개요
+
 건강검진 및 생동성, 임상시험 피실험자에게 공개된 검사 데이터를 가공 후 시각화하고 AI들의 소견 출력
 
 ## 개발 환경
+
 - PostgreSQL 16.4
 - Python 3.9.18
 - Grafana 11.2.1
 
 ## 목표
+
 - 모집 공고, 병원 홈페이지에서 제공하는 검진 결과를 파싱, 동일 병원 방문 시 재사용할 수 있도록 함
 - 코드로 처리될 수 있는 값들은 업무/공통 코드 테이블에 입력
 - 피실험자 이름, 주민등록번호 AES256 암호화 처리, 암/복호화 key는 갱신될 수 있도록 함
@@ -17,14 +20,17 @@
 - 정상 범위 min-max 값을 벗어나는 경우 ×표시와 경고 색상 처리, 정상은 ✓로 표시
 
 ## 기초 데이터 수집
+
 ![image](images/base_data.webp? "피실험자에게 공개된 기초 데이터 html")
 ![image](images/test_rslt.webp? "피실험자에게 공개된 검사 결과 html")
 
 ## 설계
+
 모델
-![image](https://github.com/dntco43u/med_exam/blob/main/sql/erd/med_exam.webp?)
+![image](sql/erd/med_exam.webp?)
 
 ## 구현
+
 - [바로 가기 1](https://gr.gvp6nx1a.duckdns.org/d/fdyt7rjk3owzkd/med-exam?orgId=1)[^1]
 - [바로 가기 2](https://agknwpt3.grafana.net/d/fdyt7rjk3owzkd/med-exam?orgId=1&from=2024-07-23T15:00:00.000Z&to=2024-09-09T14:59:59.000Z&timezone=Asia%2FSeoul&var-usr_id=9VFsW2u8mIqFXMlG7f6irg%3D%3D&var-exam_type_cd=002&var-exam_id=RT51KR-PK01&var-rslt_ymd=$__all&var-exam_a_gb_cd=$__all&var-grdng_cd=$__all&var-exam_b_gb_cd=$__all&var-ai_model=$__all)[^2]
 
